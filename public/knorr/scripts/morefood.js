@@ -1,0 +1,1 @@
+"use strict";$(".moreFood__slider").slick({arrows:!0,slidesToShow:4,responsive:[{breakpoint:600,settings:{arrows:!0,slidesToShow:2,rows:2}}]});

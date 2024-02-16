@@ -1,0 +1,1 @@
+"use strict";$(".slide__toggle .event__blockTitle").on("click",function(){$(this).toggleClass("slide__show").siblings(".event__blockText").slideToggle()});

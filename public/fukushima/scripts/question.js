@@ -1,0 +1,1 @@
+"use strict";$(function(){$(".q:nth-child(1)").show()});

@@ -1,0 +1,1 @@
+"use strict";$(".answer > div").on("click",function(){$(".answer > div").removeClass("answer__select"),$(this).addClass("answer__select")});
